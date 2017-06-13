@@ -7,5 +7,5 @@
   "contact": "",
   "homepage": "",
   "description": "A new way to transport your cargo post-rocket launch.",
-  "dependencies": [	"base >= 0.15.10",	"? bobtech >= 0.15.0",	"? bobplates >= 0.15.0", "?boblibrary >= 0.15.0",	"? angelsrefining >= 0.7.14", "? angelssmelting >= 0.3.3",	"? angelscomponents >= 0.2.0",	"? angelspetrochem >= 0.5.9",	"? angelsbioprocessing >= 0.4.0"]
+  "dependencies": [	"base >= 0.15.10",	"? bobtech >= 0.15.0",	"? bobplates >= 0.15.0", "?boblibrary >= 0.15.0",	"? angelsrefining >= 0.7.14", "? angelsinfiniteores >= 0.6.11", "? angelssmelting >= 0.3.3",	"? angelscomponents >= 0.2.0",	"? angelspetrochem >= 0.5.9",	"? angelsbioprocessing >= 0.4.0"]
 }
